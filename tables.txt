@@ -1,0 +1,7 @@
+CREATE TABLE res (
+	id TEXT UNIQUE NOT NULL,
+	price NUMERIC,
+	hood TEXT,
+	published TEXT,
+        title TEXT
+);
