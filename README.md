@@ -5,7 +5,7 @@ Script to scrape craigslist for housing classifieds in the sfbay area and send e
 
 You should really use https://ifttt.com/, this script exists only because when I was looking for a place in SF ifttt stopped working for a couple of days and I needed an alternative.
 
-You must to configure this
+You must configure this
 
 ```
 $ grep -n CONFIG . -R
